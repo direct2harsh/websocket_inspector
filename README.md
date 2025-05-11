@@ -1,16 +1,30 @@
 # WebSocket_Inspector
 
-A new Flutter project.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## A simple websocket testing tool for Linux/windows/Android/IOS.
+### It's a lighweight GUI tool as hercules is not available for Linux
 
-A few resources to get you started if this is your first Flutter project:
+## Step to Run on Linux 
+### Download the Repo and navigate to Dist Foler 
+### Extract the Linux Zip and start using the app by double clicking it.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Setps for other Platform
+### Download the Repo and build for your platfrom, Please refer the Flutter Docs to run/build for your platform
+
+
+## How to Use the Tool 
+
+### After launching the put the ws URL and click connect, This will stablish the connection.
+### You will start receiving the message from socket if server is sending.
+### In the bottom field add the message and click send to send the message to server.
+
+![alt text](image.png)
+
+
+
+## Any feature request is always welcome.
